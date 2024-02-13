@@ -5,17 +5,20 @@
 ## About Me
 I'm a passionate [Your Role/Field] with a love for [Specific Interest]. I enjoy [Describe Your Hobbies/Interests] in my free time.
 
-- 🌱 I’m currently learning [What You're Learning].
-- 💼 I'm working on [Your Current Projects or Job].
-- 📫 How to reach me: [Your Email or Social Media Links].
+- 🌱 I’m currently learning [Python, PHP].
+- 💼 I'm working on Bano-Qabil 2.0Python `FinalProject`.
+- 📫 How to reach me: umerjamshai481@gmail.com.
 
 ## Skills
-- Programming Languages: [List Languages]
+- Programming Languages: - Programming Languages: JavaScript, Python, Java, HTML/CSS, C++
+- Tools & Technologies: React, Node.js, Flask, Spring Boot, MongoDB
+- Other Skills: Git, Docker, RESTful APIs
 - Tools & Technologies: [List Tools & Technologies]
 - Other Skills: [Any Other Relevant Skills]
 
 ## My GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UMERJAMSHAID)
+
 
 ## Let's Connect!
 You can find me on [LinkedIn](Your LinkedIn Profile Link) and [Twitter](Your Twitter Profile Link).
