@@ -5,11 +5,11 @@
 ## About Me
 I'm a passionate software developer with a love for building innovative solutions that make a positive impact. I thrive on challenges and enjoy diving deep into complex problems to find creative solutions. Beyond coding, I have a strong interest in:
 
-- **Open Source:** I believe in the power of collaboration and enjoy contributing to open-source projects whenever I can. I'm an active member of communities like.
-       - [GitHub Community Forum](https://github.community/)
-       - [Stack Overflow](https://stackoverflow.com/users/youruserid)
-       - [Dev.to](https://dev.to/yourusername)
-       - [Obsidian Forum](https://forum.obsidian.md/)
+- **Open Source:** I believe in the power of collaboration and enjoy contributing to open-source projects whenever I can. I'm an active member of communities like.<br>
+       - [GitHub Community Forum](https://github.community/)<br>
+       - [Stack Overflow](https://stackoverflow.com/users/youruserid)<br>
+       - [Dev.to](https://dev.to/yourusername)<br>
+       - [Obsidian Forum](https://forum.obsidian.md/)<br>
   
 - **Continuous Learning:** I'm always eager to expand my knowledge and stay updated with the latest technologies and best practices in software development. Whether it's through online courses, books, or attending tech meetups, I'm constantly seeking new learning opportunities.
   
