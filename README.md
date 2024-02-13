@@ -30,10 +30,14 @@ I'm a passionate software developer with a love for building innovative solution
 
 ## My GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UMERJAMSHAID)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerjamshaid&" alt="umerjamshaid" /></p>
 
 
-## Let's Connect!
-You can find me on [LinkedIn](www.linkedin.com/in/umer-jamshaid-a17359287) and [Twitter](Cooming Soon).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/umer-jamshaid-a17359287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umer-jamshaid-a17359287" height="30" width="40" /></a>
+</p>
+
 
 Feel free to explore my projects and repositories below! ⬇️
 
@@ -41,13 +45,6 @@ Feel free to explore my projects and repositories below! ⬇️
 
 
 
-
-
-
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
