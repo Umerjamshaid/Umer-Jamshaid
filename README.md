@@ -5,7 +5,7 @@
 ## About Me
 I'm a passionate software developer with a love for building innovative solutions that make a positive impact. I thrive on challenges and enjoy diving deep into complex problems to find creative solutions. Beyond coding, I have a strong interest in:
 
-- **Open Source:** I believe in the power of collaboration and enjoy contributing to open-source projects whenever I can. I'm an active member of communities like.<br>
+- **Open Source:** I believe in the power of collaboration and enjoy contributing to open-source projects whenever I can. I'm an active member of communities.<br>
        - [GitHub Community Forum](https://github.community/)<br>
        - [Stack Overflow](https://stackoverflow.com/users/youruserid)<br>
        - [Dev.to](https://dev.to/yourusername)<br>
@@ -36,21 +36,16 @@ I'm a passionate software developer with a love for building innovative solution
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerjamshaid&" alt="umerjamshaid" /></p>
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/umer-jamshaid-a17359287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umer-jamshaid-a17359287" height="30" width="40" /></a>
 </p>
-
+  
 Feel free to explore my projects and repositories below! ⬇️
-## My Repositories
-- [Repo 1](https://github.com/Umerjamshaid/BanoQabil-2.0-Python-Course): Description of repo 1.
-- [Repo 2](https://github.com/Umerjamshaid/Metric-conversion_calculator): Description of repo 2.
-...
+
  
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/UmerJamshaid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/UmerJamshaid" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerjamshaid&" alt="umerjamshaid" /></p>
-
