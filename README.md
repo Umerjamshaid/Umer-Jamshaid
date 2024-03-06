@@ -14,7 +14,7 @@
 </p>
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/python.svg" alt="Python Logo" width="100" height="100" />
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </p>
 <!-- Introduction -->
 <h2 align="center">Introduction</h2>
