@@ -56,3 +56,6 @@
   Email: Umerjamshaid481@gmail.com
 </p>
 <!-- Animation -->
+<p align="center">
+  <img src="https://github.com/Umerjamshaid/Umer-Jamshaid/blob/main/Project%20Number%202/giphy%20(1).gif" alt="Number Guessing Game Animation" />
+</p>
