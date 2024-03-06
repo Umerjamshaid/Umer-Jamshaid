@@ -56,5 +56,3 @@
   Email: Umerjamshaid481@gmail.com
 </p>
 <!-- Animation -->
-<p align="center">
-<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/7c8zUY2t0dsEcxu5on" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DataCamp-online-learning-coding-course-7c8zUY2t0dsEcxu5on">via GIPHY</a></p></p>
