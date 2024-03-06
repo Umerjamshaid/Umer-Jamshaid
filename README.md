@@ -1,52 +1,61 @@
-# Hello, I'm UMERJAMSHAID! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=1E90FF&size=24&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+GitHub+profile!;Let's+code+something+amazing!)](https://git.io/typing-svg)
-
-## About Me
-I'm a passionate software developer with a love for building innovative solutions that make a positive impact. I thrive on challenges and enjoy diving deep into complex problems to find creative solutions. Beyond coding, I have a strong interest in:
-
-- **Open Source:** I believe in the power of collaboration and enjoy contributing to open-source projects whenever I can. I'm an active member of communities.<br>
-       - [GitHub Community Forum](https://github.community/)<br>
-       - [Stack Overflow](https://stackoverflow.com/users/youruserid)<br>
-       - [Dev.to](https://dev.to/yourusername)<br>
-       - [Obsidian Forum](https://forum.obsidian.md/)<br>
-  
-- **Continuous Learning:** I'm always eager to expand my knowledge and stay updated with the latest technologies and best practices in software development. Whether it's through online courses, books, or attending tech meetups, I'm constantly seeking new learning opportunities.
-  
-- **User Experience (UX) Design:** I'm fascinated by the intersection of technology and human-centered design. I enjoy exploring how to create intuitive and user-friendly experiences that delight users and solve real-world problems.
-  
-- **Tech Entrepreneurship:** I'm passionate about entrepreneurship and the startup ecosystem. I'm inspired by innovative startups that disrupt industries and drive positive change.
-
-
-
-- 🌱 I’m currently learning [Python, PHP].
-- 💼 I'm working on Bano-Qabil 2.0Python `FinalProject`.
-- 📫 How to reach me: umerjamshai481@gmail.com.
-
-## Skills
-- Programming Languages: - Programming Languages: JavaScript, Python, Bootstrap, HTML/CSS, PHP
-- Tools & Technologies: Flask
-- Other Skills: JavaScript, Python, Bootstrap, HTML/CSS, PHP, Flask
-- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-
-## My GitHub Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UMERJAMSHAID)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerjamshaid&" alt="umerjamshaid" /></p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/umer-jamshaid-a17359287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umer-jamshaid-a17359287" height="30" width="40" /></a>
+<!-- Project Title -->
+<h1 align="center">Number Guessing Game</h1>
+<!-- Author -->
+<p align="center">
+  <b>Author:</b> UMERJAMSHIAD
+  <br />
+  <b>Roll Number:</b> ?
+  <br />
+  <b>Email:</b> Umerjamshaid481@gmail.com
 </p>
-  
-Feel free to explore my projects and repositories below! ⬇️
-
- 
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/UmerJamshaid"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/UmerJamshaid" /></a></p><br><br>
+<!-- Description -->
+<p align="center">
+  <i>Creating a Number Guessing Game in Python.</i>
+</p>
+<!-- Logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/python.svg" alt="Python Logo" width="100" height="100" />
+</p>
+<!-- Introduction -->
+<h2 align="center">Introduction</h2>
+<p align="center">
+  This Python script implements a simple Number Guessing Game. The user is required to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guessed number is too low, too high, or correct. The objective is to guess the number in the fewest attempts possible.
+</p>
+<!-- How to Play -->
+<h2 align="center">How to Play</h2>
+<ol align="center">
+  <li>Run the Python script <code>number_guessing_game.py</code>.</li>
+  <li>Follow the on-screen instructions to input your guess.</li>
+  <li>The game will provide feedback on whether your guess is too low, too high, or correct.</li>
+  <li>Keep guessing until you correctly guess the secret number.</li>
+</ol>
+<!-- Features -->
+<h2 align="center">Features</h2>
+<ul align="center">
+  <li>Generates a random number between 1 and 100 for the user to guess.</li>
+  <li>Tracks the number of attempts made by the user.</li>
+  <li>Provides feedback on whether the guess is too low, too high, or correct.</li>
+  <li>Congratulates the user upon guessing the correct number.</li>
+</ul>
+<!-- Usage -->
+<h2 align="center">Usage</h2>
+<ol align="center">
+  <li>Clone this repository to your local machine.</li>
+  <li>Navigate to the directory containing the Python script.</li>
+  <li>Run the script using Python 3: <code>python number_guessing_game.py</code>.</li>
+  <li>Follow the on-screen instructions to play the game.</li>
+</ol>
+<!-- Requirements -->
+<h2 align="center">Requirements</h2>
+<p align="center">Python 3.x</p>
+<!-- Contact -->
+<h2 align="center">Contact</h2>
+<p align="center">
+  For any inquiries or feedback, feel free to contact the author at:
+  <br />
+  Email: Umerjamshaid481@gmail.com
+</p>
+<!-- Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0IyhTgA3ma9J2uLS/giphy.gif" alt="Number Guessing Game Animation" />
+</p>
