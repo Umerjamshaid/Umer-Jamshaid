@@ -7,7 +7,7 @@ Creating a Number Guessing Game in Python.
 """
 
 # Import the 'random' module to generate random numbers
-# Like an library.
+# Like an library.lol negga
 import random
 
 # Function to start the Number Guessing Game
